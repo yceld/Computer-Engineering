@@ -1,2 +1,1 @@
-1. Restate the problem in your own words. 
-The task is to design a safety system that automatically controls railway crossing gates. The goal is to prevent accidents by ensuring the gates are down whenever a train is near, or a vehicle is on the tracks and only raising them when all clear conditions are met. 
+
