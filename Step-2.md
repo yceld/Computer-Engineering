@@ -2,7 +2,7 @@
 
 ## 1. Brainstorm at least two different logic-based solutions.**
 
-**Logic 1.**
+**- Logic 1.**
 
 IF train sensor is on, lower gate 
 
@@ -12,7 +12,7 @@ ELSE raise gate
 
 The system checks if train is coming, and lowers the gate if it is. The system then checks if a vehicle is on the track, and lowers the gate if it is. If neither is true, then the gate is raised. 
 
-**Logic 2.**
+**- Logic 2.**
 
 IF train sensor OR vehicle sensor is on, lower gate 
 
