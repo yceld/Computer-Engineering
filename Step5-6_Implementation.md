@@ -9,3 +9,4 @@ If neither are on, then the gate is raised.
 Return to step 1 
 
 ## 2. Include a flowchart of the logic 
+<img width="549" height="279" alt="Image" src="https://github.com/user-attachments/assets/7eb7b971-7adf-4474-b82b-8da8de364158" />
